@@ -1,6 +1,13 @@
 # animatedswitcherbutton
 
-A new Flutter package project.
+Animated Switcher Button Package
+
+```  animatedswitcherbutton:
+    git:
+      url: https://github.com/davidsdearaujo/animatedswitcherbutton.git
+
+`import 'package:animatedswitcherbutton/animatedswitcherbutton.dart';`
+
 
 ## Getting Started
 
