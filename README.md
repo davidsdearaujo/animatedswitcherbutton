@@ -2,7 +2,8 @@
 
 Animated Switcher Button Package
 
-```  animatedswitcherbutton:
+```  
+  animatedswitcherbutton:
     git:
       url: https://github.com/davidsdearaujo/animatedswitcherbutton.git
 ```
